@@ -4,7 +4,10 @@
 
 print("hello")
 
-if 5 < 2:
+x = 5
+y = 2
+
+if x < y:
     print("Greater")
 else:
     print("Smaller")
